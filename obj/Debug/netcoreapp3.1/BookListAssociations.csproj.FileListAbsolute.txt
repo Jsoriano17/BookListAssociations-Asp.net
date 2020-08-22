@@ -160,8 +160,6 @@ C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\bin\Debug\ne
 C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\obj\Debug\netcoreapp3.1\BookListAssociations.csproj.CoreCompileInputs.cache
-C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\obj\Debug\netcoreapp3.1\BookListAssociations.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\obj\Debug\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
@@ -169,3 +167,5 @@ C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\obj\Debug\ne
 C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
 C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\obj\Debug\netcoreapp3.1\Razor\Views\Books\Edit.cshtml.g.cs
 C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\obj\Debug\netcoreapp3.1\BookListAssociations.csproj.CoreCompileInputs.cache
+C:\Users\defau\Desktop\C#\BookListAssociations\BookListAssociations\obj\Debug\netcoreapp3.1\BookListAssociations.MvcApplicationPartsAssemblyInfo.cache
